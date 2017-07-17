@@ -1,4 +1,4 @@
-# sbmod-mits-loveletter
+# sbmod-mits-dickbutt
 # attribution
 
 ## author

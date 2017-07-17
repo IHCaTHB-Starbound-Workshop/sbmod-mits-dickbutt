@@ -1,4 +1,4 @@
-# sbmod-mits-loveletter
+# sbmod-mits-dickbutt
 # documentation
 last updated 2017-07-02 for version 0.1
 

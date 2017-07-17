@@ -1,5 +1,5 @@
-# sbmod-mits-loveletter
+# sbmod-mits-dickbutt
 # changelog
 
 ### v0.1 2017-07-02
-+ love letter in the sky
++ dickbutt in the sky

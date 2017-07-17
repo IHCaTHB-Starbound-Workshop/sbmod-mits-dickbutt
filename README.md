@@ -1,6 +1,6 @@
 ![_previewimage]
 
-# sbmod-mits-loveletter
+# sbmod-mits-dickbutt
 # readme
 
 Project licensed under a modified [MIT license], file included.

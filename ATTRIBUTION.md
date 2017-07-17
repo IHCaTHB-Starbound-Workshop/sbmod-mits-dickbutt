@@ -7,6 +7,8 @@ IHCaTHB | forum: [714236] | steam: [The Honey Badger] | github: [IsaacHart]
 
 ## credit
 
+[dickbutt]. Originally by [K.C. Green]. No copyright claimed for likeness of dickbutt
+
 [Chucklefish], developer and publisher of [Starbound].
 
 [The Starbound official forums modding community], constant support and just being awesome in general.
@@ -32,6 +34,10 @@ http://chbrown.github.io/rfc6902/
 [The Honey Badger]: https://steamcommunity.com/profiles/76561197966846799/myworkshopfiles/?appid=211820
 
 [IsaacHart]: https://github.com/IHCaTHB-Starbound-Workshop
+
+[dickbutt]: http://knowyourmeme.com/memes/dick-butt
+
+[K.C. Green]: http://kcgreendotcom.com/index.html
 
 [Chucklefish]: http://www.chucklefish.org
 
